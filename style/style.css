@@ -14,6 +14,7 @@
 
 body{
     background-color: rgba(246, 249, 201, 0.121);
+
 }
 header{
     background-color: black;
@@ -29,17 +30,13 @@ header>h1{
 header>p{
     padding-top: 3px;
 } 
-article{
- margin: auto;   
-} 
+
 section{
-    margin: auto;
-    max-width: 900px;
-    min-width: 350px;
+    margin:auto;
+    max-width: 800px;
+    min-width: 320px;  
     margin-top: 44px;
     margin-bottom: -11px;
-
-
 } 
 p{
     font-family: var(--sriracha);
@@ -61,7 +58,7 @@ a:hover{
     max-width: 1919px;
     max-height: 326px;
     padding-top: 40px;
-    padding-bottom: 75px;
+    padding-bottom: 60px;
     background-size: cover;
     background-position: center ; 
     background-attachment: fixed;
@@ -69,10 +66,10 @@ a:hover{
 .background>p{
     margin: auto;
     max-width: 800px;
-    min-width: 350px;
+    min-width: 320px;
     background-image: linear-gradient(to right,rgba(0, 0, 0, 0.627),rgba(0, 0, 0, 0));
     color: white;
-    margin-right: 381px;
+    margin-right: 333px;
     text-shadow: 1px 1.1px rgba(255, 255, 255, 0.5);
 }
 footer{
