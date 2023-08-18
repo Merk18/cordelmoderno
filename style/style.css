@@ -13,7 +13,7 @@
 }
 
 body{
-    background-color: rgba(246, 249, 201, 0.121);
+    background-color: rgba(255, 255, 196, 0.247);
 
 }
 header{ 
@@ -30,7 +30,6 @@ header>h1{
 header>p{
     padding-top: 3px;
 } 
-
 section{
     margin:auto;
     max-width: 800px;
