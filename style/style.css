@@ -17,6 +17,7 @@ body{
 
 }
 header{
+    margin: auto;
     min-width: 300px;  
     background-color: black;
     color: white;
@@ -74,8 +75,8 @@ a:hover{
     text-shadow: 1px 1.1px rgba(255, 255, 255, 0.5);
 }
 footer{
-
-    min-width: 300px;  
+    margin: auto;
+    min-width: 320px;  
     background-color: black;
     color: white;
     margin-top: 31px;
