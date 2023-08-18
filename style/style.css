@@ -28,7 +28,10 @@ header>h1{
 }
 header>p{
     padding-top: 3px;
-}  
+} 
+article{
+ margin: auto;   
+} 
 section{
     margin: auto;
     max-width: 900px;
@@ -81,7 +84,7 @@ footer{
 }
 footer>p{
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.1em;
     padding-left: 11px;
     padding-right: 11px;
     padding-top: 15px;
